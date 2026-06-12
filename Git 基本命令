@@ -1,0 +1,23 @@
+Git基本命令
+
+在使用Git命令行时，首先需要了解一些基本的Git命令，这些命令是进行版本控制的基础。以下是一些常用的Git命令：
+
+git init: 初始化一个新的Git仓库。
+
+git clone [url]: 克隆一个远程仓库到本地。
+
+git add [file]: 将文件添加到暂存区。
+
+git commit -m "[message]": 将暂存区的更改提交到本地仓库。
+
+git status: 查看仓库当前的状态，显示有变更的文件。
+
+git push [remote] [branch]: 将本地分支的更新推送到远程仓库。
+
+git pull [remote] [branch]: 从远程仓库拉取更新并合并到本地分支。
+
+git branch [branch-name]: 创建新分支。
+
+git checkout [branch-name]: 切换到指定分支。
+
+git merge [branch]: 合并指定分支到当前分支。
